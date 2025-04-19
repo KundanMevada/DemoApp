@@ -21,6 +21,7 @@ class FeatureOneFragment : Fragment() {
     private var param1: String? = null
     private var param2: String? = null
 //Test
+//Resolved unused param
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         arguments?.let {
