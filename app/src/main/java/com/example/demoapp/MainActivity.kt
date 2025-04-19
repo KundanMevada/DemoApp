@@ -11,6 +11,8 @@ import com.example.demoapp.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
+
+    //TEST COMMIT IN MAIN ACTIVITY
     private lateinit var binding: ActivityMainBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
